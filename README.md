@@ -1,13 +1,15 @@
 # Hello Ethereum!
-A repository of articles and sample code to kickstart your Ethereum development journey!
+[Ethereum](https://ethereum.org/en/) is a decentralized platform that runs smart contracts.
 
-## Prerequisites
+This repository is a collection of articles/guides that I've written to help myself and others in my footsteps get started developing on Ethereum!
 
-1. Install node and npm
-```
+## Contents
 
-```
-2. Install truffle and ganache
+1. [The Various Flavors of Ethereum Developer Tools](articles/1-dev-tools.md)
 
-## Start Here
+## Other Resources
+### Ethereum
+- [Whitepaper](https://ethereum.org/en/whitepaper/)
 
+### Solidity
+- [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
