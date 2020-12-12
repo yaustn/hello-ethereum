@@ -1,7 +1,7 @@
 # The Various Flavors of Ethereum Developer Tools
 
 ## Smart Contract Languages
-The most common language is Solidity and it still has the majority of the market. Vyper still feels experimental, but it's worth knowing that it exists.
+The most common language is Solidity and it has the majority of the market. Vyper still feels experimental, but it's worth knowing that it exists.
 - [Solidity](https://docs.soliditylang.org/en/latest/)
 - [Vyper](https://vyper.readthedocs.io/en/latest/)
 
