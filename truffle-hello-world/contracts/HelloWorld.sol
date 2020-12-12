@@ -8,7 +8,7 @@ contract HelloWorld {
     message = "Hello World";
   }
   
-  function getMessage() public view returns(string memory){
+  function getMessage() external view returns(string memory){
     return message;
   }
 }

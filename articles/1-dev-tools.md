@@ -24,3 +24,6 @@ Here are some other links if you want to dive deeper:
 - [Dapp Development Frameworks](https://ethereum.org/en/developers/docs/frameworks/)
 - [ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list#new-developers-start-here)
 - [awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
+
+## Get Started
+Let's choose Solidity and Truffle for now and get started with a [HelloWorld introduction](./2-hello-world.md).
